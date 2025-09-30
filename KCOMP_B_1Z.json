@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "startAt": 9,
+      "endAt": 10,
+      "title": "Network Fundamentals",
+      "room": "R200",
+      "tutor": "Gene Farrell"
+    },
+    {
+      "startAt": 10,
+      "endAt": 11,
+      "title": "Computer Architecture",
+      "room": "R200",
+      "tutor": "Mairead O'Sullivan"
+    },
+    {
+      "startAt": 14,
+      "endAt": 15,
+      "title": "Network Fundamentals",
+      "room": "T109",
+      "tutor": "Gene Farrell"
+    },
+    {
+      "startAt": 15,
+      "endAt": 16,
+      "title": "Computer Architecture",
+      "room": "T109",
+      "tutor": "Mairead O'Sullivan"
+    },
+    {
+      "startAt": 16,
+      "endAt": 17,
+      "title": "Peer Programming",
+      "room": "S304 / S302",
+      "tutor": "Computing - Student Led"
+    },
+    {
+      "startAt": 17,
+      "endAt": 18,
+      "title": "Peer Programming",
+      "room": "S302 / S304",
+      "tutor": "Computing - Student Led"
+    }
+  ],
+  "tuesday": [
+    {
+      "startAt": 9,
+      "endAt": 10,
+      "title": "Web Development 1",
+      "room": "S300",
+      "tutor": "Anne O'Brien"
+    },
+    {
+      "startAt": 10,
+      "endAt": 11,
+      "title": "Computer Architecture",
+      "room": "T109",
+      "tutor": "Mairead O'Sullivan"
+    },
+    {
+      "startAt": 11,
+      "endAt": 12,
+      "title": "Network Fundamentals",
+      "room": "T109",
+      "tutor": "Gene Farrell"
+    },
+    {
+      "startAt": 14,
+      "endAt": 15,
+      "title": "User Interfaces",
+      "room": "R300",
+      "tutor": "Grainne Stack"
+    },
+    {
+      "startAt": 15,
+      "endAt": 16,
+      "title": "Computer Architecture",
+      "room": "T116",
+      "tutor": "Mairead O'Sullivan"
+    }
+  ],
+  "wednesday": [
+    {
+      "startAt": 10,
+      "endAt": 11,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 11,
+      "endAt": 12,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 12,
+      "endAt": 13,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 14,
+      "endAt": 15,
+      "title": "Progress Hub",
+      "room": "T107",
+      "tutor": "Robert Sheehy, Aine O Mahony, Owen Mackessy, Claire Horgan, Therese Enright"
+    },
+    {
+      "startAt": 15,
+      "endAt": 16,
+      "title": "Computer Architecture",
+      "room": "T116",
+      "tutor": "Mairead O'Sullivan"
+    }
+  ],
+  "thursday": [
+    {
+      "startAt": 9,
+      "endAt": 10,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 10,
+      "endAt": 11,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 11,
+      "endAt": 12,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 12,
+      "endAt": 13,
+      "title": "Structured Programming 1",
+      "room": "T306",
+      "tutor": "Therese Enright"
+    },
+    {
+      "startAt": 14,
+      "endAt": 15,
+      "title": "Seminars",
+      "room": "T118",
+      "tutor": "Spec Projs"
+    }
+  ],
+  "friday": [
+    {
+      "startAt": 9,
+      "endAt": 10,
+      "title": "Structured Programming 1",
+      "room": "S306",
+      "tutor": "Therese Enright"
+    },
+    {
+      "startAt": 10,
+      "endAt": 11,
+      "title": "Web Development 1",
+      "room": "S306",
+      "tutor": "Anne O'Brien"
+    },
+    {
+      "startAt": 11,
+      "endAt": 12,
+      "title": "Web Development 1",
+      "room": "S306",
+      "tutor": "Anne O'Brien"
+    }
+  ],
+  "saturday": [],
+  "sunday": []
+}
