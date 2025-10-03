@@ -15,6 +15,10 @@
       "tutor": "Mairead O'Sullivan"
     },
     {
+      "startAt": 11,
+      "endAt": 14
+    },
+    {
       "startAt": 14,
       "endAt": 15,
       "title": "Network Fundamentals",
@@ -30,13 +34,6 @@
     },
     {
       "startAt": 16,
-      "endAt": 17,
-      "title": "Peer Programming",
-      "room": "S304 / S302",
-      "tutor": "Computing - Student Led"
-    },
-    {
-      "startAt": 17,
       "endAt": 18,
       "title": "Peer Programming",
       "room": "S302 / S304",
@@ -66,6 +63,10 @@
       "tutor": "Gene Farrell"
     },
     {
+      "startAt": 12,
+      "endAt": 14
+    },
+    {
       "startAt": 14,
       "endAt": 15,
       "title": "User Interfaces",
@@ -78,9 +79,17 @@
       "title": "Computer Architecture",
       "room": "T116",
       "tutor": "Mairead O'Sullivan"
+    },
+    {
+      "startAt": 16,
+      "endAt": 18
     }
   ],
   "wednesday": [
+    {
+      "startAt": 9,
+      "endAt": 10
+    },
     {
       "startAt": 10,
       "endAt": 11,
@@ -115,6 +124,10 @@
       "title": "Computer Architecture",
       "room": "T116",
       "tutor": "Mairead O'Sullivan"
+    },
+    {
+      "startAt": 16,
+      "endAt": 18
     }
   ],
   "thursday": [
@@ -152,6 +165,10 @@
       "title": "Seminars",
       "room": "T118",
       "tutor": "Spec Projs"
+    },
+    {
+      "startAt": 15,
+      "endAt": 18
     }
   ],
   "friday": [
@@ -175,6 +192,10 @@
       "title": "Web Development",
       "room": "S306",
       "tutor": "Anne O'Brien"
+    },
+    {
+      "startAt": 12,
+      "endAt": 18
     }
   ],
   "saturday": [],

@@ -15,6 +15,10 @@
       "tutor": "Anne O'Brien"
     },
     {
+      "startAt": 13,
+      "endAt": 14
+    },
+    {
       "startAt": 14,
       "endAt": 15,
       "title": "Network Fundamentals",
@@ -57,15 +61,27 @@
       "title": "Network Fundamentals",
       "room": "T109",
       "tutor": "Gene Farrell"
+    },
+    {
+      "startAt": 12,
+      "endAt": 18
     }
   ],
   "wednesday": [
+    {
+      "startAt": 9,
+      "endAt": 1
+    },
     {
       "startAt": 11,
       "endAt": 13,
       "title": "Rapid Application Development",
       "room": "T306, S302, R302",
       "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt": 13,
+      "endAt": 14
     },
     {
       "startAt": 14,
@@ -80,6 +96,10 @@
       "title": "Computer Architecture",
       "room": "T116",
       "tutor": "Mairead O Sullivan"
+    },
+    {
+      "startAt": 16,
+      "endAt": 18
     }
   ],
   "thursday": [
@@ -96,6 +116,10 @@
       "title": "Computer Architecture",
       "room": "R200",
       "tutor": "Mairead O Sullivan"
+    },
+    {
+      "startAt": 13,
+      "endAt": 14
     },
     {
       "startAt": 14,
@@ -126,6 +150,10 @@
       "title": "Structured Programming",
       "room": "S304",
       "tutor": "Padraic Moriarty"
+    },
+    {
+      "startAt": 13,
+      "endAt": 18
     }
   ],
   "saturday": [],
