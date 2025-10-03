@@ -3,7 +3,7 @@
     {
       "startAt": 9,
       "endAt": 11,
-      "title": "Structured Programming 1",
+      "title": "Structured Programming",
       "room": "S302",
       "tutor": "John Brosnan"
     },
@@ -54,14 +54,14 @@
     {
       "startAt": 9,
       "endAt": 10,
-      "title": "Web Development 1",
+      "title": "Web Development",
       "room": "S304",
       "tutor": "Claire Horgan"
     },
     {
       "startAt": 10,
       "endAt": 11,
-      "title": "Web Development 1",
+      "title": "Web Development",
       "room": "S304",
       "tutor": "Claire Horgan"
     },
@@ -105,7 +105,7 @@
     {
       "startAt": 9,
       "endAt": 10,
-      "title": "Structured Programming 1",
+      "title": "Structured Programming",
       "room": "S302",
       "tutor": "Therese Enright"
     }
@@ -135,7 +135,7 @@
     {
       "startAt": 12,
       "endAt": 13,
-      "title": "Web Development 1",
+      "title": "Web Development",
       "room": "S302",
       "tutor": "Claire Horgan"
     }

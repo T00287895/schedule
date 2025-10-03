@@ -10,7 +10,7 @@
     {
       "startAt": 11,
       "endAt": 13,
-      "title": "Web Development 1",
+      "title": "Web Development",
       "room": "S304",
       "tutor": "Anne O'Brien"
     },
@@ -107,7 +107,7 @@
     {
       "startAt": 16,
       "endAt": 18,
-      "title": "Structured programming 1",
+      "title": "Structured programming",
       "room": "S304",
       "tutor": "Theresa Enright"
     }
@@ -116,14 +116,14 @@
     {
       "startAt": 9,
       "endAt": 11,
-      "title": "Web Development 1",
+      "title": "Web Development",
       "room": "S304",
       "tutor": "Anne O'Brien"
     },
     {
       "startAt": 11,
       "endAt": 13,
-      "title": "Structured Programming 1",
+      "title": "Structured Programming",
       "room": "S304",
       "tutor": "Padraic Moriarty"
     }
