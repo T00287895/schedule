@@ -109,6 +109,13 @@
       "room": "S302",
       "tutor": "Therese Enright"
     }
+     {
+      "startAt": 9,
+      "endAt": 10,
+      "title": "Structured Programming",
+      "room": "S302",
+      "tutor": "Therese Enright"
+    }
   ],
   "thursday": [
     {
