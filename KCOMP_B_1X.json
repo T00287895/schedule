@@ -9,17 +9,10 @@
     },
     {
       "startAt": 11,
-      "endAt": 12,
+      "endAt": 13,
       "title": "User Interfaces",
       "room": "T304",
       "tutor": "Grainne Stack"
-    },
-    {
-      "startAt": 12,
-      "endAt": 13,
-      "title": "Network Fundamentals",
-      "room": "R200",
-      "tutor": "Gene Farrell"
     },
     {
       "startAt": 13,
@@ -49,13 +42,6 @@
   "tuesday": [
     {
       "startAt": 9,
-      "endAt": 10,
-      "title": "Web Development",
-      "room": "S304",
-      "tutor": "Claire Horgan"
-    },
-    {
-      "startAt": 10,
       "endAt": 11,
       "title": "Web Development",
       "room": "S304",
@@ -77,44 +63,48 @@
     },
     {
       "startAt": 13,
-      "endAt": 14,
-      "title": "Progress Hub",
-      "room": "T107",
-      "tutor": "Robert Sheehy, Aine O Mahony, Owen Mackessy, Claire Horgan, Therese Enright"
+      "endAt": 18
     },
-    {
-      "startAt": 14,
-      "endAt": 15,
-      "title": "Computer Architecture",
-      "room": "T116",
-      "tutor": "Mairead O'Sullivan"
-    },
-    {
-      "startAt": 16,
-      "endAt": 17
-    },
-    {
-      "startAt": 17,
-      "endAt": 18,
-      "title": "User Interfaces",
-      "room": "R300",
-      "tutor": "Grainne Stack"
-    }
   ],
   "wednesday": [
     {
       "startAt": 9,
-      "endAt": 10,
+      "endAt": 11,
       "title": "Structured Programming",
       "room": "S302",
       "tutor": "Therese Enright"
     },
     {
       "startAt": 11,
-      "endAt": 12,
-      "title": "web dev",
-      "room": "S323",
-      "tutor": "Therese Enright"
+      "endAt": 13,
+      "title": "Rapid Application Development",
+      "room": "T306, S302, R302",
+      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
+    },
+    {
+      "startAt":13,
+      "endAt":14
+    },
+    {
+      "startAt":14,
+      "endAt":15,
+      "title": "Progress Hub",
+      "room": "T107",
+      "tutor": "Robert Sheehy, Aine O Mahony, Owen Mackessy, Claire Horgan, Therese Enright"
+    },
+    {
+      "startAt": 15,
+      "endAt": 16,
+      "title": "Computer Architecture",
+      "room": "T116",
+      "tutor": "Mairead O Sullivan"
+    },
+    {
+      "startAt": 16,
+      "endAt": 18,
+      "title": "User Interfaces",
+      "room": "R300",
+      "tutor": "Grainne Stack"
     }
   ],
   "thursday": [
@@ -126,21 +116,7 @@
       "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
     },
     {
-      "startAt": 10,
-      "endAt": 11,
-      "title": "Rapid Application Development",
-      "room": "T306, S302, R302",
-      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
-    },
-    {
       "startAt": 11,
-      "endAt": 12,
-      "title": "Rapid Application Development",
-      "room": "T306, S302, R302",
-      "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
-    },
-    {
-      "startAt": 12,
       "endAt": 13,
       "title": "Web Development",
       "room": "S302",
