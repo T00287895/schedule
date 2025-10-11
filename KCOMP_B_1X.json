@@ -3,7 +3,7 @@
     {
       "startAt": 9,
       "endAt": 11,
-      "title": "Structured Programming",
+      "title": "Structured Programing",
       "room": "S302",
       "tutor": "John Brosnan"
     },
@@ -16,13 +16,14 @@
     },
     {
       "startAt": 13,
-      "endAt": 14
+      "endAt": 14,
+      "title": "Lunch Break"
     },
     {
       "startAt": 14,
       "endAt": 15,
       "title": "Network Fundamentals",
-      "room": "R200",
+      "room": "T109",
       "tutor": "Gene Farrell"
     },
     {
@@ -30,12 +31,13 @@
       "endAt": 16,
       "title": "Computer Architecture",
       "room": "T109",
-      "tutor": "Mairead O'Sullivan"
+      "tutor": "Mairead O Sullivan"
     },
     {
       "startAt": 16,
       "endAt": 18,
       "title": "Peer Programming",
+      "room": "S302, S304",
       "tutor": "Computing - Student Led"
     }
   ],
@@ -52,19 +54,19 @@
       "endAt": 12,
       "title": "Computer Architecture",
       "room": "T109",
-      "tutor": "Mairead O'Sullivan"
+      "tutor": "Mairead O Sullivan"
     },
     {
       "startAt": 12,
       "endAt": 13,
       "title": "Network Fundamentals",
-      "room": "R200",
+      "room": "T109",
       "tutor": "Gene Farrell"
     },
     {
       "startAt": 13,
       "endAt": 18
-    },
+    }
   ],
   "wednesday": [
     {
@@ -82,15 +84,16 @@
       "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
     },
     {
-      "startAt":13,
-      "endAt":14
+      "startAt": 13,
+      "endAt": 14,
+      "title": "Lunch Break"
     },
     {
-      "startAt":14,
-      "endAt":15,
+      "startAt": 14,
+      "endAt": 15,
       "title": "Progress Hub",
       "room": "T107",
-      "tutor": "Robert Sheehy, Aine O Mahony, Owen Mackessy, Claire Horgan, Therese Enright"
+      "tutor": "Robert Sheehy, Aine O'Mahony, Owen Mackessy, Claire Horgan, Therese Enright"
     },
     {
       "startAt": 15,
@@ -101,16 +104,13 @@
     },
     {
       "startAt": 16,
-      "endAt": 18,
-      "title": "User Interfaces",
-      "room": "R300",
-      "tutor": "Grainne Stack"
+      "endAt": 18
     }
   ],
   "thursday": [
     {
       "startAt": 9,
-      "endAt": 10,
+      "endAt": 11,
       "title": "Rapid Application Development",
       "room": "T306, S302, R302",
       "tutor": "Padraic Moriarty, Owen Mackessy, Claire Horgan"
@@ -124,37 +124,24 @@
     },
     {
       "startAt": 13,
-      "endAt": 18
+      "endAt": 14,
+      "title": "Lunch Break"
     }
   ],
   "friday": [
     {
       "startAt": 9,
-      "endAt": 10,
-      "title": "Network Fundamentals",
-      "room": "R200",
-      "tutor": "Gene Farrell"
-    },
-    {
-      "startAt": 10,
       "endAt": 11,
-      "title": "Network Fundamentals",
-      "room": "R200",
-      "tutor": "Gene Farrell"
+      "title": "Web Development",
+      "room": "S304",
+      "tutor": "Anne O'Brien"
     },
     {
       "startAt": 11,
-      "endAt": 12,
-      "title": "Computer Architecture",
-      "room": "R200",
-      "tutor": "Mairead O'Sullivan"
-    },
-    {
-      "startAt": 12,
       "endAt": 13,
-      "title": "Computer Architecture",
-      "room": "R200",
-      "tutor": "Mairead O'Sullivan"
+      "title": "Structured Programming",
+      "room": "S304",
+      "tutor": "Padraic Moriarty"
     },
     {
       "startAt": 13,
